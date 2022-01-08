@@ -114,8 +114,8 @@ notebooks:
     kind: S2021, LN, Notebook
     link: /notes/notebooks/18_reinforcement_learning/
     text: <p>Reinforcement Learning</p>
-  - md: notebooks/15_learning_a_decision_tree/index.md
-    kind: F2021, LN, Notebook
+  - md: notebooks/15_learning_a_decision_tree/
+    kind: F2021, LN
     link: /notes/notebooks/15_learning_a_decision_tree/
 kind: Index
 search:
